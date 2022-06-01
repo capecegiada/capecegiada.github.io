@@ -1,0 +1,49 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 5002229, 2022-05-30T05:00:46-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TatlineNeue-Thin by Groteskly Yours
+ * URL: https://www.myfonts.com/fonts/groteskly-yours/tatline-neue/thin/
+ * 
+ * Webfont: TatlineNeue-Regular by Groteskly Yours
+ * URL: https://www.myfonts.com/fonts/groteskly-yours/tatline-neue/regular/
+ * 
+ * Webfont: TatlineNeue-Bold by Groteskly Yours
+ * URL: https://www.myfonts.com/fonts/groteskly-yours/tatline-neue/bold/
+ * 
+ * Webfont: TatlineNeue-Heavy by Groteskly Yours
+ * URL: https://www.myfonts.com/fonts/groteskly-yours/tatline-neue/heavy/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2019 by Eugene Tantsurin. All rights reserved.
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/4c53f5");
+  
+@font-face {
+  font-family: "TatlineNeue-Thin";
+  src: url('webFonts/TatlineNeueThin/font.woff2') format('woff2'), url('webFonts/TatlineNeueThin/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TatlineNeue-Regular";
+  src: url('webFonts/TatlineNeueRegular/font.woff2') format('woff2'), url('webFonts/TatlineNeueRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TatlineNeue-Bold";
+  src: url('webFonts/TatlineNeueBold/font.woff2') format('woff2'), url('webFonts/TatlineNeueBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TatlineNeue-Heavy";
+  src: url('webFonts/TatlineNeueHeavy/font.woff2') format('woff2'), url('webFonts/TatlineNeueHeavy/font.woff') format('woff');
+}
+

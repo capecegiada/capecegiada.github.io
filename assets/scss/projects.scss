@@ -1,0 +1,18 @@
+@import "variables.scss";
+
+body {
+  background: linear-gradient(to top, $gc-gray, transparent);
+}
+
+.card-img-top {
+  height: 300px;
+  padding: 0 3rem;
+}
+
+.gc-bg-yellow {
+  background-color: $gc-yellow;
+}
+
+.gc-bg-pink {
+  background-color: $gc-pink;
+}
